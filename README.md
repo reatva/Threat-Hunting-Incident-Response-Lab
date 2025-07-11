@@ -35,7 +35,7 @@ A structured Threat Hunting and Incident Response (IR) lab designed for hands‑
 1. **TH Scenario 1** – [Data Exfiltration from PIP'd employee](/ThreatHunting/Scenario1-DataExfiltration/Scenario1-DataExfiltration.md)
 2. **TH Scenario 2** – [Suspicious/Unauthorized Tor Usage](/ThreatHunting/Scenario2-UnauthorizedTORUsage/Scenario2-UnauthorizedTORUsage.md )
 3. **IR Scenario 1** – [Internet‑Facing Brute‑Force](/IncidentResponse/Scenario1-BruteForce/Scenario1-BruteForce.md)
-4. **IR Scenario 2** – [Suspicious web request](/IncidentResponse/Scenario1-BruteForce/Scenario2-SuspiciousPowershell/)
+4. **IR Scenario 2** – [Suspicious web request](/IncidentResponse/Scenario2-SuspiciousPowershell/Scenario2-SuspiciousPowershell.md)
     
 > [!NOTE]
 > The scenarios and structure provided are examples. Be sure to create your own and improve upon them as needed.
