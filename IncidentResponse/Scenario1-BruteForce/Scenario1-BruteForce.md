@@ -79,5 +79,5 @@ Simulated incident response for a password‑spraying brute‑force attack again
 - **Monitor Account Lockouts:** Alert on rapid lockout events across multiple accounts.
 - **Periodic IR Drills:** Simulate brute‑force scenarios quarterly.
 
-> ![NOTE]
+> [!NOTE]
 > These recommendations are illustrative and should be tailored to your organization’s specific environment, policies, and risk tolerance and technical environment.
