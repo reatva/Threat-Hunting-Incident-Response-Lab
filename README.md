@@ -2,15 +2,11 @@
 
 A structured Threat Hunting and Incident Response (IR) lab designed for hands‑on learning with Microsoft Sentinel and Defender for Endpoint. This lab simulates realistic detection, investigation, and response workflows against common attacker TTPs, making it ideal for blue‑team training, purple‑team exercises, and portfolio demonstration.
 
----
-
 ## Objectives
 
 1. **Build a Proactive Hunt Workflow**   
 2. **Execute Reactive IR Playbooks**  
 3. **Document and Share**  
-
----
 
 ## Lab Architecture
 
@@ -20,8 +16,6 @@ A structured Threat Hunting and Incident Response (IR) lab designed for hands‑
 | Defender for Endpoint    | EDR on all Windows hosts                                     | Advanced Hunting enabled        |
 | Azure VM           | Endpoint under threat hunt                                   | Windows 10 Pro                  |
 
----
-
 ## Technologies Used
 
 - **Kusto Query Language (KQL)** for log queries  
@@ -29,15 +23,11 @@ A structured Threat Hunting and Incident Response (IR) lab designed for hands‑
 - **Microsoft Defender for Endpoint** for endpoint telemetry and response  
 - **Microsoft Azure** for VM's creation
 
----
-
 ## Lab Key Features
 
 - **7‑Step Threat Hunting Framework** embedded in each scenario  
 - **MITRE ATT&CK Mapping** for all simulated adversary behaviors  
 - **Reusable KQL Snippets** for rapid deployment into Sentinel  
-
----
 
 ## Scenario Overview
 - Read each scenario’s detailed procedure in the corresponding Markdown file.
@@ -49,8 +39,6 @@ A structured Threat Hunting and Incident Response (IR) lab designed for hands‑
     
 > [!NOTE]
 > The scenarios and structure provided are examples. Be sure to create your own and improve upon them as needed.
-
----
 
 ## Attack / Hunt Flow (Example)
 
