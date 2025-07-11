@@ -78,5 +78,5 @@ _A simulated incident response to unauthorized file download and execution via P
 - Restrict internet access from non-administrative workstations.
 - Establish a file reputation service to alert on unsigned executables.
 
-> ![NOTE]
+> [!NOTE]
 > These recommendations are illustrative and should be tailored to your organization’s specific environment, policies, and risk tolerance and technical environment.
