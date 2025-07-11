@@ -86,5 +86,5 @@
 - Enhance Telemetry: Enable script‑block logging to capture inline PowerShell installs.
 - Periodic Reviews: Audit endpoints for unattended PowerShell module installations and compressed archives.
 
-> ![NOTE]
+> [!NOTE]
 > These recommendations are illustrative and should be tailored to your organization’s specific environment, policies, and risk tolerance.
