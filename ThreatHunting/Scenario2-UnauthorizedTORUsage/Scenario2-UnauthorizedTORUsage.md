@@ -106,5 +106,5 @@ Ensure telemetry is ingested for the following tables over the suspected timefra
 - Implement stricter controls on PowerShell module installations.
 - Periodically audit user directories for unapproved executables.
 
-> ![NOTE]
+> [!NOTE]
 > These recommendations are illustrative and should be tailored to your organization’s specific environment, policies, and risk tolerance.
