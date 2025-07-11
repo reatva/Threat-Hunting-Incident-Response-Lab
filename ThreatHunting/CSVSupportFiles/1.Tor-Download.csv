@@ -1,0 +1,9 @@
+﻿Timestamp,DeviceName,ActionType,FileName,FolderPath,SHA256,Account
+"Jul 11, 2025 12:42:07 PM",windows-ado,FileModified,tor-shopping-list.txt,C:\Users\labuser\Desktop\tor-shopping-list.txt,404bf95474679f210a91378caf5b0c1783b9aea391182df6962079d3c9470ebc,labuser
+"Jul 11, 2025 12:41:39 PM",windows-ado,FileCreated,tor-shopping-list.lnk,C:\Users\labuser\AppData\Roaming\Microsoft\Windows\Recent\tor-shopping-list.lnk,4ea12636f5376868f4423b79c414c97b7ba00271f0c75cd9929ae6087670e5ab,labuser
+"Jul 11, 2025 12:41:39 PM",windows-ado,FileRenamed,tor-shopping-list.txt,C:\Users\labuser\Desktop\tor-shopping-list.txt,,labuser
+"Jul 11, 2025 12:21:10 PM",windows-ado,FileCreated,Tor Browser.lnk,C:\Users\labuser\Desktop\Tor Browser\Tor Browser.lnk,7c209aa6cf8ee3686347324f367132bf9d15f2ee694f9509be50a1794a639117,labuser
+"Jul 11, 2025 12:21:00 PM",windows-ado,FileCreated,tor.exe,C:\Users\labuser\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe,fe6d44cb69780e09c3a39f499e0e668bff9aa54b6cd9f363b753d59af713bea0,labuser
+"Jul 11, 2025 12:21:00 PM",windows-ado,FileCreated,tor.txt,C:\Users\labuser\Desktop\Tor Browser\Browser\TorBrowser\Docs\Licenses\tor.txt,47b54ed17e8fdcab3c44729a1789a09b208f9a63a845a7e50def9df729eebad0,labuser
+"Jul 11, 2025 12:21:00 PM",windows-ado,FileCreated,Tor-Launcher.txt,C:\Users\labuser\Desktop\Tor Browser\Browser\TorBrowser\Docs\Licenses\Tor-Launcher.txt,d4fd98d01e1714e6b86f3b2c721e80f593387de8b10da690625039155fa2104c,labuser
+"Jul 11, 2025 12:19:19 PM",windows-ado,FileRenamed,tor-browser-windows-x86_64-portable-14.5.4.exe,C:\Users\labuser\Downloads\tor-browser-windows-x86_64-portable-14.5.4.exe,5035adc961d7ebae32a175061d102686c00728c750824b3099601259cead8866,labuser
