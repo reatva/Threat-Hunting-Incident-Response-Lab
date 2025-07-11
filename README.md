@@ -47,8 +47,8 @@ A structured Threat Hunting and Incident Response (IR) lab designed for hands‑
 3. **IR Scenario 1** – [Internet‑Facing Brute‑Force](/IncidentResponse/Scenario1-BruteForce/Scenario1-BruteForce.md)
 4. **IR Scenario 2** – [Suspicious web request](/IncidentResponse/Scenario1-BruteForce/Scenario2-SuspiciousPowershell/)
     
-    > ![NOTE]
-    > The scenarios and structure provided are examples. Be sure to create your own and improve upon them as needed.
+> [!NOTE]
+> The scenarios and structure provided are examples. Be sure to create your own and improve upon them as needed.
 
 ---
 
@@ -64,7 +64,7 @@ A structured Threat Hunting and Incident Response (IR) lab designed for hands‑
 
 ## Disclaimer
 
-> ![NOTE] 
+> [!NOTE] 
 > This lab is for educational purposes. Never run these techniques or queries against environments where you do not have explicit permission.
 
 
